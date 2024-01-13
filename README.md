@@ -1,0 +1,5 @@
+![circle jpg_canny_2](https://github.com/TaqiRaza512/Canny-Edge-Detection-Implementation/assets/122045573/06f85ec8-ef54-4f5e-afe8-3f452717053b)
+![Monument jpg_quantized_2](https://github.com/TaqiRaza512/Canny-Edge-Detection-Implementation/assets/122045573/1a58c2b4-1928-434e-851b-c120bd20297e)
+![Faisal jpg_quantized_2](https://github.com/TaqiRaza512/Canny-Edge-Detection-Implementation/assets/122045573/dc3176eb-a334-4d57-a2dd-50169a3b6663)
+![Burj webp_quantized_2](https://github.com/TaqiRaza512/Canny-Edge-Detection-Implementation/assets/122045573/069d215f-7a54-47f9-8c7a-3eea4b527a7b)
+![GCU webp_quantized_2](https://github.com/TaqiRaza512/Canny-Edge-Detection-Implementation/assets/122045573/ed694210-3a6e-4765-80bf-efefe572e2b9)
